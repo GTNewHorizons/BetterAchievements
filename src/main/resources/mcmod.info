@@ -12,10 +12,6 @@
 		"credits": "Authored by way2muchnoise",
 		"logoFile": "",
 		"screenshots": [],
-		"parent": "",
-		"requiredMods": [],
-		"dependencies": [],
-		"dependants": [],
-		"useDependencyInformation": true
+		"parent": ""
 	}]
 }
