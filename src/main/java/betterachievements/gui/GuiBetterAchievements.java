@@ -206,7 +206,7 @@ public class GuiBetterAchievements extends GuiScreen {
         this.drawTexturedModalRect(this.left, this.top + tabHeight / 2, 0, 0, guiWidth, guiHeight);
         this.drawCurrentTab(page);
         this.fontRendererObj.drawString(
-                page.getName() + " " + I18n.format("gui.achievements"),
+                I18n.format("betterachievements.gui.title", page.getName()),
                 this.left + 15,
                 this.top + tabHeight / 2 + 5,
                 4210752);
